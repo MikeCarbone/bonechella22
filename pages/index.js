@@ -99,6 +99,18 @@ export default function Home() {
             .hot-dog {
               max-width: 90%;
             }
+
+            .year {
+              display: block;
+              margin: -50px auto 0 auto;
+              width: 30%;
+            }
+
+            .subtitle {
+              display: block;
+              margin: -30px auto 0 auto;
+              width: 15%;
+            }
         }
       `}</style>
     </>
